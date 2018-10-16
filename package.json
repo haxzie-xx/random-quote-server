@@ -1,0 +1,23 @@
+{
+  "name": "sosc-hack1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "9.0.0"
+  },
+  "now": {
+    "engines": {
+      "node": "9.0.0"
+    }
+  },
+  "author": "haxzie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
